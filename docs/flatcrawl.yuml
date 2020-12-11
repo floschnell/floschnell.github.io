@@ -1,0 +1,21 @@
+// {type:class}
+// {direction:leftToRight}
+// {generate:true}
+[Crawler]^[CrawlerImpl]
+[CrawlerImpl]-[note:like ImmoScout, Sueddeutsche and WGGesucht{bg:lightyellow}]
+
+[Crawler]->[RabbitMQ]
+
+[RabbitMQ]->[Processor]
+[RabbitMQ]-[note:delivers crawled flats and then forgets about them{bg:lightyellow}]
+
+[Processor]^[TelegramProcessor]
+
+[Firebase]-[note:stores users and their search configurations{bg:lightyellow}]
+[Processor]<->[Firebase]
+
+[Web Application]<->[Firebase]
+[Web Application]-[note:can be used to simply edit search configurations{bg:lightyellow}]
+
+[User]<->[Web Application]
+[User]<->[TelegramProcessor]
