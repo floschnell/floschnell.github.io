@@ -21,7 +21,7 @@ Zuerst begann ich damit, die OpenStreetMaps (OSM) Daten mit den MunichWays Bewer
 
 Der Vergleich mit zwei populären Routingdiensten zeigt deutlich, dass die Routen unter Berücksichtigung verschiedener Kriterien berechnet werden. Bei der gewählten Nord-Süd Route (von der *Münchner Freiheit* zum *Wettersteinplatz*) macht für mich die *RadlNavi* Route am meisten Sinn. Eine ähnliche Route wäre ich intuitiv selbst auch gefahren. Beim *RadlNavi* könnt ihr außerdem mit eurer Maus unten im Einstellungsbereich auf die unterschiedlichen Farbbalken fahren. Je nachdem leuchtet dann der zugehörige Streckenteil auf. So könnt ihr sehen, welcher Teil der Route beleuchtet ist oder wo euch die Strecke ein Stück über einen unbefestigten Weg führt.
 
-<div class="catalog" markdown="1" sytle="justify-content:stretch;height:100px;">
+<div class="catalog" markdown="1">
 <p>
 <figure style="max-width:320px;float:left;margin-right:2em">
 <img alt="Route berechnet mit RadlNavi" src="/img/radlnavi/route-radlnavi.png" />
