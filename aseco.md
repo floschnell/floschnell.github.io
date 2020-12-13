@@ -18,8 +18,8 @@ Es kam die Zeit, als die Entwickler von Trackmania eine XML-RPC Schnittstelle zu
 Zu Beginn lief die Dedicated Server Software zusammen mit dem Skript zur Aufzeichnung der Bestzeiten auf meinem lokalen Computer. Ich war überrascht, wie populär mein Server in kürzester Zeit wurde und so stand mein Rechner ständig unter Last. Mir war klar, dass andere Spieler bessere Resourcen als ich hatten und so gab ich meinem Tool einen Namen (FAST) und verteilte es über Foren, MSN und ICQ (!). Bald begannen andere Spieler meine Entwicklung durch das Melden von Fehlern, Ideen oder gar durch Erweiterungen zu unterstützen. Zurückblickend war das wohl mein erster Kontakt mit *Open Source Software*. Zuerst schloss ich mich mit einem Franzosen namens "Slig" zusammen. Eine Zeit entwickelten wir zusammen, bis der Zeitpunkt kam, an dem Nadeo (die Entwickler von Trackmania) einen Teil ihrer Schnittstelle änderten. Deshalb und auch weil die Software schnell gewachsen war, entschied ich mich dazu die Anwendung komplett neu zu schreiben. Slig wollte unseren Fortschritt nicht verwerfen und entwickelte weiter an einer zweiten (... dritten und vierten) Version von FAST.
 
 <figure markdown="1">
-![alt text](/img/aseco/servercontroller-timeline.jpg)
-<figcaption>Die [online Dokumentation von ManiaPlanet](http://doc.maniaplanet.com/dedicated-server/tools/) enthält eine schöne Grafik, welche zeigt, wie sich die verschiedenen Programme entwickelt haben.</figcaption>
+<img alt="Servercontroller History" src="/img/aseco/servercontroller-timeline.jpg">
+<figcaption>Die <a target="blank" href="http://doc.maniaplanet.com/dedicated-server/tools/">online Dokumentation von ManiaPlanet</a> enthält eine schöne Grafik, welche zeigt, wie sich die verschiedenen Programme entwickelt haben.</figcaption>
 </figure>
 
 ## ASECO

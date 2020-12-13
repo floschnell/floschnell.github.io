@@ -14,9 +14,20 @@ Nachdem eine erste Version des Spiels spielbar war, wollte ich diese auch auf me
 Wenn euch die Umsetzung interessiert, oder ihr euch an der Entwicklung beteiligen wollt, so findet ihr das Projekt unter meinem Github Account: https://github.com/floschnell/towers.
 
 <div class="catalog" markdown="1">
-![alt text][towers1] ![alt text][towers2]![alt text][towers3]
-</div>
 
-[towers1]: /img/towers/towers1.png "Logo Title Text 2"
-[towers2]: /img/towers/towers2.png "Logo Title Text 2"
-[towers3]: /img/towers/towers3.png "Logo Title Text 2"
+<figure markdown="1" style="max-width:200px">
+![alt text](/img/towers/towers1.png)
+<figcaption>Listenansicht der verschiedenen aktiven Spiele.</figcaption>
+</figure>
+
+<figure markdown="1" style="max-width:200px">
+![alt text](/img/towers/towers2.png)
+<figcaption>Der Spieler ist am Zug.</figcaption>
+</figure>
+
+<figure markdown="1" style="max-width:200px">
+![alt text](/img/towers/towers3.png)
+<figcaption>Bildschirm nach Niederlage.</figcaption>
+</figure>
+
+</div>

@@ -23,19 +23,28 @@ Der Vergleich mit zwei populären Routingdiensten zeigt deutlich, dass die Route
 
 <div class="catalog" markdown="1">
 <p>
-<figure style="max-width:320px;float:left;margin-right:2em">
+<figure style="max-width:320px;">
 <img alt="Route berechnet mit RadlNavi" src="/img/radlnavi/route-radlnavi.png" />
-<figcaption>Die mit RadlNavi.de berechnete Route verläuft größtenteils direkt an der Isar auf dem Radweg.</figcaption>
+<figcaption>
+<div style="color: black;font-weight: bold;line-height: 27px;height: 35px;">RadlNavi</div>
+Die mit RadlNavi.de berechnete Route verläuft größtenteils direkt an der Isar auf dem Radweg.
+</figcaption>
 </figure>
 
-<figure style="max-width:320px;float:left;margin-right:2em">
+<figure style="max-width:320px;">
 <img alt="Route berechnet mit Google Maps" src="/img/radlnavi/route-gmaps.png" />
-<figcaption>Die Google Maps Route führt über die Leopoldstraße am Stadtzentrum vorbei und nur ein ganz kurzes Stück an der Isar entlang.</figcaption>
+<figcaption>
+<div style="color: black;font-weight: bold;line-height: 27px;height: 35px;">Google Maps</div>
+Die Google Maps Route führt über die Leopoldstraße am Stadtzentrum vorbei und nur ein ganz kurzes Stück an der Isar entlang.
+</figcaption>
 </figure>
 
-<figure style="max-width:320px;float:left;margin-right:2em">
+<figure style="max-width:320px;">
 <img alt="Route berechnet mit Komoot" src="/img/radlnavi/route-komoot.png" />
-<figcaption>Komoot führt einen zuerst über die anstrengende Loepoldstraße und anschließend durch die Münchner Innenstadt.</figcaption>
+<figcaption>
+<div style="color: black;font-weight: bold;line-height: 27px;height: 35px;">Komoot</div>
+Komoot führt einen zuerst über die anstrengende Loepoldstraße und anschließend durch die Münchner Innenstadt.
+</figcaption>
 </figure>
 </p>
 </div>

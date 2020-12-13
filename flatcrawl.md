@@ -9,12 +9,12 @@ The purpose of the FlatCrawl project is to collect flats from different rental s
 
 Clarification: flats are not stored on the server. The purpose is not to create a competing portal, but to extend usability and help users find the right flat quickly by receiving updates from several sites without the hassle to setup and maintain different searches.
 <div class="catalog">
-<figure style="max-width:442px" markdown="1">
+<figure style="max-width:320px" markdown="1">
 ![alt text](/img/flatcrawl/start_search.gif)
 <figcaption>Initiating a search and setting up basic filters.</figcaption>
 </figure>
 
-<figure style="max-width:440px" markdown="1">
+<figure style="max-width:320px" markdown="1">
 ![alt text](/img/flatcrawl/add_location.gif)
 <figcaption>You can add your important places and you'll receive routing information for each found flat.</figcaption>
 </figure>
@@ -23,7 +23,12 @@ Clarification: flats are not stored on the server. The purpose is not to create 
 
 ## Architecture
 
+<center>
+<figure style="max-width:640px;" markdown="1">
 ![alt text](/docs/flatcrawl.svg)
+<figcaption>Components involved in the flatcrawl service.</figcaption>
+</figure>
+</center>
 
 Checkout the [main github project](https://github.com/floschnell/flatcrawl) to see how the infrastructure is setup and what the different components are in detail.
 
@@ -44,7 +49,7 @@ These consume crawled flats from the RabbitMQ, process/filter/enrich and eventua
 A react frontend to edit searches quickly. You can [find the code on github](https://github.com/floschnell/flatcrawl-web).
 
 <div markdown="1">
-<figure style="max-width:480px" markdown="1">
+<figure style="max-width:400px" markdown="1">
 ![alt text](/img/flatcrawl/edit_search.gif)
 <figcaption>Once the search is setup, you can edit it from a more convenient web interface.</figcaption>
 </figure>
