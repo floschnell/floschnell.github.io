@@ -11,7 +11,7 @@ Remembrall war mein zweites Projekt mit dem Arduino Board. Zuerst hatte ich mit 
 
 In diesem Projekt wollte ich das Wifi-Shield ausprobieren und da ich als Stundent ständig wechselnde Stundenpläne hatte, musste ich regelmäßig meinen Wecker anpassen. Die Stundenpläne trug ich ohnehin bereits in meinen Google Kalender ein. Daher fand ich, wäre es doch schön, wenn mein Wecker sich immer an meinen online gepflegten Stundenplan anpassen würde. Auch untertags hätte ich mir des öfteren mal einen Hinweis gewünscht, ob ich gleich in einer Vorlesung sitzen sollte.
 
-## Ergebnissass
+## Ergebnis
 
 <figure style="max-width:320px;float:left;margin-right:2em">
 <img alt="Geöffneter Wecker" src="/img/wifi-alarm-clock/wifi-alarm-clock1.png" />
