@@ -28,7 +28,7 @@ Den aktuellen Stand des Projekts findet ihr [im TrainerJS GitHub Repo](https://w
 - Aufzeichnung der Geschwindigkeit und Leistungsdaten während der Fahrt und Visualisierung in einem Graphen am unteren Bildschirmrand
 - Export der Aufzeichnungen als neue GPX Datei zum Import bei Fitness Portalen wie Strava
 
-[In diesem kurzen Youtube Video](https://www.youtube.com/watch?v=jJdXFX-7fDQ&feature=youtu.be) könnt ihr sehen, was euch nach dem öffnen der Webanwendung im Browser (hier Chrome) erwartet.
+[In diesem kurzen Youtube Video](https://www.youtube.com/watch?v=jJdXFX-7fDQ&feature=youtu.be) könnt ihr sehen, was euch nach dem Öffnen der Webanwendung im Browser (hier Chrome) erwartet.
 
 <center>
 <figure style="max-width:500px" markdown="1">
