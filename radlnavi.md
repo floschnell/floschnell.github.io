@@ -8,9 +8,7 @@ category: Projekte
 ## Motivation
 
 Vor kurzem bin ich auf die Initiative MunichWays gestoßen. Ein laufendes Projekt der Initiative ist die Kartographierung und Bewertung Münchner Straßen und Radwege bezüglich ihrer Fahrradtauglichkeit und Sicherheit. Eine Visualiserung der Bewertungen könnt ihr [hier finden](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787).
-
 Da ich in der Vergangenheit schon mit OpenStreetMaps und Routing gespielt hatte, wusste ich um das Open Source Projekt OSRM (Open Source Routing Machine) und dass dies mit OpenStreetMaps Daten gefüttert werden kann.
-
 Während Freizeitplatformen wie Komoot gut für die Outdoornavigation auf dem Land sind und Google Maps immer vorrangig die schnellsten Strecken findet, hatte ich das Gefühl, dass aktuell eine gute Fahrradnavigation für München fehlt, welche eine sichere und stressfreie Navigation fokussiert. Somit entstand das [RadlNavi](https://www.radlnavi.de).
 
 ## Funktionsweise

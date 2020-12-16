@@ -5,9 +5,8 @@ permalink: /projekte/flatcrawl/
 category: Projekte
 ---
 
-The purpose of the FlatCrawl project is to collect flats from different rental sites and expose them in a consistent shape. Eventually it lets users define custom searches and provides them with instant updates on new matching flats.
+The purpose of the FlatCrawl project is to collect flats from different rental sites and expose them in a consistent shape. Eventually it lets users define custom searches and provides them with instant updates on new matching flats. **Clarification:** flats are not stored on the server. The purpose is not to create a competing portal, but to extend usability and help users find the right flat quickly by receiving updates from several sites without the hassle to setup and maintain different searches.
 
-Clarification: flats are not stored on the server. The purpose is not to create a competing portal, but to extend usability and help users find the right flat quickly by receiving updates from several sites without the hassle to setup and maintain different searches.
 <div class="catalog">
 <figure style="max-width:320px" markdown="1">
 ![alt text](/img/flatcrawl/start_search.gif)

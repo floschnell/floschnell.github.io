@@ -13,6 +13,9 @@ In diesem Projekt wollte ich das Wifi-Shield ausprobieren und da ich als Stunden
 
 ## Ergebnis
 
+Die letzte Version des Weckers hatte eine eingebaute Uhr, einen Alarm, eine Wetteranzeige und einen Demo-Modus. In jedem Modus fängt der Wecker eine konfigurierbare Zeit vor einem Termin an zu leuchten. Die Intensität des Leuchtens nimmt dabei bis zum Start des Termins zu. Die Modi können durch einen kurzen Druck auf den Wecker gewechselt werden. Klingelt der Wecker, kann dieser ebenfalls durch einen Druck wieder zum Schweigen gebracht werden.
+
+<div class="catalog">
 <figure style="max-width:320px;float:left;margin-right:2em">
 <img alt="Geöffneter Wecker" src="/img/wifi-alarm-clock/wifi-alarm-clock1.png" />
 <figcaption>Der Wecker ohne Deckel mit bereits angeschlossener Peripherie.</figcaption>
@@ -22,5 +25,4 @@ In diesem Projekt wollte ich das Wifi-Shield ausprobieren und da ich als Stunden
 <a alt="Video mit Funktionsübersicht" href="https://www.youtube.com/watch?v=iJd8Pvlnlzw"><img src="https://img.youtube.com/vi/iJd8Pvlnlzw/0.jpg" /></a>
 <figcaption>Dieses Video zeigt den Wecker und all seine Funktionen in Aktion. Zum Abspielen einfach auf das Bild oder <a href="https://www.youtube.com/watch?v=iJd8Pvlnlzw">hier klicken</a>.</figcaption>
 </figure>
-
-Die letzte Version des Weckers hatte eine eingebaute Uhr, einen Alarm, eine Wetteranzeige und einen Demo-Modus. In jedem Modus fängt der Wecker eine konfigurierbare Zeit vor einem Termin an zu leuchten. Die Intensität des Leuchtens nimmt dabei bis zum Start des Termins zu. Die Modi können durch einen kurzen Druck auf den Wecker gewechselt werden. Klingelt der Wecker, kann dieser ebenfalls durch einen Druck wieder zum Schweigen gebracht werden.
+</div>
