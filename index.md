@@ -20,9 +20,17 @@ In meiner Freizeit treibe ich Sport oder genieße *la dolce vita* mit Espresso �
 
 Seit <mark>September 2023 unterstütze ich das Volkswagen Data:Lab</mark>. Zusammen entwickeln wir dort Produkte, welche die anfallenden, riesigen Datenmengen über alle Marken des Konzerns hinweg nutzbar machen.
 
-Von <mark>Januar 2021 an arbeitete ich beim *Digital Lab* von Siemens Intelligent Traffic Systems</mark>. Im Juli 2021 wurde aus der Einheit eine eigene Firma mit dem Namen [Yunex Traffic](https://www.yunextraffic.com). Über zwei Jahre war ich maßgeblich an der Entwicklung einer neuen internen Anwendung für eine effizientere und bessere Verkehrsplanung beteiligt. Außerdem arbeitete ich an einem System zur Überwachung von Sicherheitsschwachstellen und trug die technische Verantwortung für eine Komponente bei einem Teilprojekt von Gaia-X.
+Von <mark>
 
-<mark markdown="1">Von Sommer 2015 bis Ende 2020 arbeitete ich bei [Netlight](https://www.netlight.com)</mark> als IT Berater. Dadurch erhielt ich Einblick in verschiedenste Branchen, verwendete Technologien und unterschiedliche agile Arbeitsweisen.
+Januar 2021 an arbeitete ich beim *Digital Lab* von Siemens Intelligent Traffic Systems
+
+</mark>. Im Juli 2021 wurde aus der Einheit eine eigene Firma mit dem Namen [Yunex Traffic](https://www.yunextraffic.com). Über zwei Jahre war ich maßgeblich an der Entwicklung einer neuen internen Anwendung für eine effizientere und bessere Verkehrsplanung beteiligt. Außerdem arbeitete ich an einem System zur Überwachung von Sicherheitsschwachstellen und trug die technische Verantwortung für eine Komponente bei einem Teilprojekt von Gaia-X.
+
+<mark>
+
+Von Sommer 2015 bis Ende 2020 arbeitete ich bei [Netlight](https://www.netlight.com)
+
+</mark> als IT Berater. Dadurch erhielt ich Einblick in verschiedenste Branchen, verwendete Technologien und unterschiedliche agile Arbeitsweisen.
 
 Während meines Studiums verbrachte ich <mark>2010 ein Semester in Paris bei <i>NADEO</i></mark>, einer französischen Spielefirma, welche zum Publisher *UBISOFT* gehört. Im Rahmen meines 6-monatigen Aufenthaltes realisierte ich zusammen mit zwei weiteren Entwicklern eine Neuauflage meines Hobbyprojektes [Aseco](./aseco.md) für das Rennspiel [Trackmania](https://www.trackmania.com).
 
