@@ -25,7 +25,7 @@ twitter_username: floschnell
 github_username:  floschnell
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
