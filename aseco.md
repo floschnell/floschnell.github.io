@@ -18,7 +18,7 @@ Es kam die Zeit, als die Entwickler von Trackmania eine XML-RPC Schnittstelle zu
 Zu Beginn lief die Dedicated Server Software zusammen mit dem Skript zur Aufzeichnung der Bestzeiten auf meinem lokalen Computer. Ich war überrascht, wie populär mein Server in kürzester Zeit wurde und so stand mein Rechner ständig unter Last. Mir war klar, dass andere Spieler bessere Resourcen als ich hatten und so gab ich meinem Tool einen Namen (FAST) und verteilte es über Foren, MSN und ICQ (!). Bald begannen andere Spieler meine Entwicklung durch das Melden von Fehlern, Ideen oder gar durch Erweiterungen zu unterstützen. Zurückblickend war das wohl mein erster Kontakt mit *Open Source Software*. Zuerst schloss ich mich mit einem Franzosen namens "Slig" zusammen. Eine Zeit entwickelten wir zusammen, bis der Zeitpunkt kam, an dem Nadeo (die Entwickler von Trackmania) einen Teil ihrer Schnittstelle änderten. Deshalb und auch weil die Software schnell gewachsen war, entschied ich mich dazu die Anwendung komplett neu zu schreiben. Slig wollte unseren Fortschritt nicht verwerfen und entwickelte weiter an einer zweiten (... dritten und vierten) Version von FAST.
 
 <figure markdown="1">
-<img alt="Servercontroller History" src="/img/aseco/servercontroller-timeline.jpg">
+<img alt="Servercontroller History" src="img/aseco/servercontroller-timeline.jpg">
 <figcaption>Die <a target="blank" href="http://doc.maniaplanet.com/dedicated-server/tools/">online Dokumentation von ManiaPlanet</a> enthält eine schöne Grafik, welche zeigt, wie sich die verschiedenen Programme entwickelt haben.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Als ich das Tool neu geschrieben hatte, nannte ich es ASECO (um eine Verwechslun
 Da ich während meines Studiums ein Semester im Ausland verbringen wollte, schickte ich auch Bewerbungen an einige Spielefirmen. Natürlich fragte ich auch bei Nadeo an und hatte bald ein Telefonat mit Florent Castelnerac, welcher mir anbot in Paris mit an einem neuen Tool zu arbeiten. Somit half ich während meines Praxissemesters bei der Entwicklung von "ManiaLive", welches im Prinzip eine von Nadeo entwickelte Alternative zu den bestehenden Tools darstellt. Erneut lernten wir aus den bisherigen Problemen und konzentrierten uns daher haupstächlich auf die Architektur und Erweiterbarkeit. Außerdem integrierten wir PHP Multithreading (für Hintergrundaufgaben), eine Plugin Verwaltung mit Versionierung, eine schöne UI und sogar eine Art Fenstermanager.
 
 <figure style="max-width:600px" markdown="1">
-![alt text](/img/aseco/manialive.png)
+<img alt="ManiaLive im Spiel" src="img/aseco/manialive.png">
 <figcaption>So sieht ManiaLive aus der Perspektive eines Spielers aus. Hier wurden zwei Screenshots zusammengefügt, um die Möglichkeiten des Fenstermanagers zu demonstrieren.</figcaption>
 </figure>
 
