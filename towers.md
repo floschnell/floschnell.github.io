@@ -16,16 +16,19 @@ Wenn euch die Umsetzung interessiert, oder ihr euch an der Entwicklung beteilige
 <div class="catalog" markdown="1">
 
 <figure markdown="1" style="max-width:200px">
+
 ![alt text](/img/towers/towers1.png)
 <figcaption>Listenansicht der verschiedenen aktiven Spiele.</figcaption>
 </figure>
 
 <figure markdown="1" style="max-width:200px">
+
 ![alt text](/img/towers/towers2.png)
 <figcaption>Der Spieler ist am Zug.</figcaption>
 </figure>
 
 <figure markdown="1" style="max-width:200px">
+
 ![alt text](/img/towers/towers3.png)
 <figcaption>Bildschirm nach Niederlage.</figcaption>
 </figure>

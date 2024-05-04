@@ -32,7 +32,8 @@ Den aktuellen Stand des Projekts findet ihr [im TrainerJS GitHub Repo](https://w
 
 <center>
 <figure style="max-width:500px" markdown="1">
-![test](https://raw.githubusercontent.com/floschnell/trainerjs/main/demo.gif)
+
+![Animation einer Ausfahrt mit TrainerJS](https://raw.githubusercontent.com/floschnell/trainerjs/main/demo.gif)
 <figcaption>Ein kleiner Ausschnitt einer meiner Ausfahrten am Gardasee (in der Ferne sieht man den Lago di Tenno ❤️).</figcaption>
 </figure>
 </center>

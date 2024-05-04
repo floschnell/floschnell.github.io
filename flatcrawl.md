@@ -9,11 +9,13 @@ The purpose of the FlatCrawl project is to collect flats from different rental s
 
 <div class="catalog">
 <figure style="max-width:320px" markdown="1">
+
 ![alt text](/img/flatcrawl/start_search.gif)
 <figcaption>Initiating a search and setting up basic filters.</figcaption>
 </figure>
 
 <figure style="max-width:320px" markdown="1">
+
 ![alt text](/img/flatcrawl/add_location.gif)
 <figcaption>You can add your important places and you'll receive routing information for each found flat.</figcaption>
 </figure>
@@ -24,6 +26,7 @@ The purpose of the FlatCrawl project is to collect flats from different rental s
 
 <center>
 <figure style="max-width:640px;" markdown="1">
+
 ![alt text](/docs/flatcrawl.svg)
 <figcaption>Components involved in the flatcrawl service.</figcaption>
 </figure>
@@ -49,6 +52,7 @@ A react frontend to edit searches quickly. You can [find the code on github](htt
 
 <div markdown="1">
 <figure style="max-width:400px" markdown="1">
+
 ![alt text](/img/flatcrawl/edit_search.gif)
 <figcaption>Once the search is setup, you can edit it from a more convenient web interface.</figcaption>
 </figure>

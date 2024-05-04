@@ -17,7 +17,7 @@ Die letzte Version des Weckers hatte eine eingebaute Uhr, einen Alarm, eine Wett
 
 <div class="catalog">
 <figure style="max-width:320px;float:left;margin-right:2em">
-<img alt="Geöffneter Wecker" src="/img/wifi-alarm-clock/wifi-alarm-clock1.png" />
+<img alt="Geöffneter Wecker" src="img/wifi-alarm-clock/wifi-alarm-clock1.png" />
 <figcaption>Der Wecker ohne Deckel mit bereits angeschlossener Peripherie.</figcaption>
 </figure>
 
