@@ -50,10 +50,10 @@ These consume crawled flats from the RabbitMQ, process/filter/enrich and eventua
 
 A react frontend to edit searches quickly. You can [find the code on github](https://github.com/floschnell/flatcrawl-web).
 
-<div markdown="1">
+<center markdown="1">
 <figure style="max-width:400px" markdown="1">
 
 ![alt text](/img/flatcrawl/edit_search.gif)
 <figcaption>Once the search is setup, you can edit it from a more convenient web interface.</figcaption>
 </figure>
-</div>
+</center>
